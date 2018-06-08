@@ -1,6 +1,5 @@
 function theBeatlesPlay (band, instr) {
   let arr=[]
-<<<<<<< HEAD
   for (let i=0; i<band.length; i++){
     arr.push(band[i] + " plays " + instr[i])
   }
